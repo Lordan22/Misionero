@@ -5,6 +5,6 @@ if edad >=18:
     print(f"(nombre)eres mayor de edad")
     else
     print(f"(nombre)eres menor de edadd")
-    print (f"a")
+    print (f"69")
 
     
